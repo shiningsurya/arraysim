@@ -1,0 +1,2 @@
+# arraysim
+Radio interferometry simulation 
